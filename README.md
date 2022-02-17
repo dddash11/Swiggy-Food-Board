@@ -7,6 +7,7 @@ This repository contains an analysis of top 3 restaurants of ``` Bengaluru```, I
 
 ## Important Links
 * Dashboard: https://datastudio.google.com/reporting/425530bf-9c85-4212-9f7c-07cd1f4278f6
+#### Scraping URLs:
 * Restaurant 1: https://www.swiggy.com/restaurants/the-belgian-waffle-co-v-v-puram-shankarapura-bangalore-197238
 * Restaurant 2: https://www.swiggy.com/restaurants/burger-king-opposite-to-west-side-shivaji-nagar-bangalore-5938
 * Restaurant 3: https://www.swiggy.com/restaurants/polar-bear-vv-puram-shankarapura-bangalore-5893
