@@ -20,5 +20,5 @@ This repository contains an analysis of top 3 restaurants of ``` Bengaluru```, I
 * Language: ``` Python```
 * Scraper: ``` Beautiful Soup```
 * Data Handling and preprocessing: ``` Numpy```, ``` Pandas```
-* Data Visualization: ``` Matlplotlib```, ``` Seaborn```
+* Data Visualization: ``` Matlplotlib```, ``` Seaborn```, ``` Plotly```
 * Dashboard: ``` Google Data Studio```
